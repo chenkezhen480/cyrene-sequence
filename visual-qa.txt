@@ -1,0 +1,6 @@
+visual_qa=pass
+qa_note=All 9 standard loops and 16 look directions are identity-consistent, motion-readable, unclipped, alpha-clean, and legible at normal and zoom sizes; ornament handedness remains coherent and deterministic validation passes.
+direction_semantics=000 up pass; 022.5 up-right warning; 045 up-right warning; 067.5 up-right warning; 090 right pass; 112.5 down-right pass; 135 down-right warning; 157.5 down-right warning; 180 down pass; 202.5 down-left warning; 225 down-left warning; 247.5 down-left warning; 270 left pass; 292.5 up-left warning; 315 up-left warning; 337.5 up-left warning
+review_warnings=Intermediate blind-axis uncertainty accepted because the labeled sheet preserves a clockwise sweep without reversal; continuity and alpha-hole metrics have no visible body hole or seam; repaired 000 and 270 remain correctly sized and identity-consistent.
+repair_rows=none
+repair_notes=none

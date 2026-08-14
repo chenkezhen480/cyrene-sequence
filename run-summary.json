@@ -1,0 +1,34 @@
+{
+  "petId": "cyrene-sequence",
+  "displayName": "昔涟·序",
+  "status": "complete",
+  "installedPath": "C:\\Users\\17685\\.codex\\pets\\cyrene-sequence",
+  "atlas": {
+    "width": 1536,
+    "height": 2288,
+    "columns": 8,
+    "rows": 11,
+    "cellWidth": 192,
+    "cellHeight": 208,
+    "spriteVersionNumber": 2,
+    "format": "WEBP",
+    "mode": "RGBA"
+  },
+  "qa": {
+    "deterministicValidation": "pass",
+    "transparentRgbResiduePixels": 0,
+    "standardAnimationRows": "pass",
+    "cardinalDirectionBlindGate": "pass",
+    "intermediateDirectionReview": "pass_with_warnings",
+    "continuityReview": "pass_with_warnings",
+    "finalVisualQa": "pass",
+    "repairRows": []
+  },
+  "generation": {
+    "style": "sticker",
+    "standardRows": 9,
+    "lookDirections": 16,
+    "chromaDespillPasses": 1,
+    "focusedDirectionRepairs": ["000", "270"]
+  }
+}
