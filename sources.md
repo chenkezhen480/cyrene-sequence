@@ -1,5 +1,9 @@
 # 昔涟宠物参考来源
 
+- 官方角色预告：Cyrene Character Trailer — “With You Once More”
+
+  https://www.youtube.com/watch?v=CRAuK8T6Xis
+
 - Sketchfab CC BY 模型：Cyrene，作者 Fella_001
 
   https://sketchfab.com/3d-models/cyrene-615e7f6541ce492fa3db1f05e5438788

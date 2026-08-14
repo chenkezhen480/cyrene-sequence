@@ -1,7 +1,7 @@
 {
-  "id": "cyrene-sequence",
-  "displayName": "昔涟·序",
-  "description": "以昔涟Q版造型为基底，带着严谨、清晰、重视一致性的温柔审查者。",
+  "id": "cyrene",
+  "displayName": "cyrene",
+  "description": "温柔明亮、珍惜每一次相遇的记忆少女。她喜欢把旅途讲成浪漫故事，在你前进时真心欢呼，在你停下时安静陪伴，也始终相信春天与重逢终会到来。",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
